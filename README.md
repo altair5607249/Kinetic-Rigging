@@ -1,8 +1,13 @@
-# Doc-Ock-Claw
-I'm currently working on rigging a claw for one of my sister's costumes, which is Doctor Octavius from Spider-Man.
+# Kinetic Rigging
+This is a sandbox for my experimentation with C++ embedded software and applied kinematics to create "life."
+
+## Context
+Every day, I find myself amazed by the things people accomplish with software and physics.
+
+Though they are completely different concepts, I've seen them used in harmony several times, whether with physical animatronics or VTuber models. I want to be one of the people responsible for creating such intricate things, so I'm currently teaching myself with basic inference, prior experience, and (so many) external resources to accomplish this goal.
 
 ## Credits & Disclosures
-I'm not an omniscient being, but I'm trying my best to learn how to integrate software into hardware!
+"If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton, 1675
 - Video References
   - [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://www.youtube.com/watch?v=ZzaPdXTrSb8) by [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
   - [How to Code Arduino: Beginner's Tutorial](https://www.youtube.com/watch?v=ZOllXMxLRqc) by [Curio Res](https://www.youtube.com/@curiores111)
