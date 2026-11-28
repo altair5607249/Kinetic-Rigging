@@ -1,7 +1,7 @@
 #include "raylib.h" //library's header file
 
 int main() {
-    InitWindow(400, 400, "Veryn's Headspace: Sector Null");
+    InitWindow(400, 400, "Veryn's Headspace: Sector Naught");
     SetTargetFPS(30);
 
     Vector2 verynPos = {200.00f, 200.00f};
