@@ -8,6 +8,8 @@ Though they are completely different concepts, I've seen them used in harmony se
 
 ## Credits & Disclosures
 "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton, 1675
+- External API
+  - [Raylib](https://www.raylib.com/) by [Ramon Santamaria](https://www.linkedin.com/in/raysan/)
 - Video References
   - [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://www.youtube.com/watch?v=ZzaPdXTrSb8) by [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
   - [How to Code Arduino: Beginner's Tutorial](https://www.youtube.com/watch?v=ZOllXMxLRqc) by [Curio Res](https://www.youtube.com/@curiores111)
